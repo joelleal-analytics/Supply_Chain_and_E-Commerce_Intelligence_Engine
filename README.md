@@ -51,11 +51,15 @@ To translate these analytical findings into measurable business value, leadershi
 **Table 1. Top 5 SKUs by Operational Efficiency Index (OEI) Score**
 [![Top 5 SKUs by Operational Efficiency Index (OEI) Score](https://github.com/joelleal-analytics/Supply_Chain_and_E-Commerce_Intelligence_Engine/blob/main/appendix_images/Top%205%20SKUs%20by%20Operational%20Efficiency%20Index%20(OEI)%20Score.png)](https://github.com/joelleal-analytics/Supply_Chain_and_E-Commerce_Intelligence_Engine/blob/main/appendix_images/Top%205%20SKUs%20by%20Operational%20Efficiency%20Index%20(OEI)%20Score.png)
 
-
 **Table 2. Bottom 5 SKUs by Operational Efficiency Index (OEI) Score**
 [![Bottom 5 SKUs by Operational Efficiency Index (OEI) Score](https://github.com/joelleal-analytics/Supply_Chain_and_E-Commerce_Intelligence_Engine/blob/main/appendix_images/Bottom%205%20SKUs%20by%20Operational%20Efficiency%20Index%20(OEI)%20Score.png)](https://github.com/joelleal-analytics/Supply_Chain_and_E-Commerce_Intelligence_Engine/blob/main/appendix_images/Bottom%205%20SKUs%20by%20Operational%20Efficiency%20Index%20(OEI)%20Score.png)
 
-
 **Table 3. Marketing Acquisition Efficiency (ROAS) by Channel**
 [![Marketing Acquisition Efficiency (ROAS) by Channel](https://github.com/joelleal-analytics/Supply_Chain_and_E-Commerce_Intelligence_Engine/blob/main/appendix_images/Marketing%20Acquisition%20Efficiency%20(ROAS)%20by%20Channel.png)](https://github.com/joelleal-analytics/Supply_Chain_and_E-Commerce_Intelligence_Engine/blob/main/appendix_images/Marketing%20Acquisition%20Efficiency%20(ROAS)%20by%20Channel.png)
+
+---
+
+## Tools and Concepts Used:
+* **Tool:** `SQL (MySQL)`
+* **Concepts:** `Advanced CTE Architecture` `Data Modeling` `Relational Aggregations` `Defensive SQL (COALESCE, NULLIF)`
 
