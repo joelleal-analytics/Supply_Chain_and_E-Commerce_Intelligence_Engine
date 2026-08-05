@@ -63,3 +63,6 @@ To translate these analytical findings into measurable business value, leadershi
 * **Tool:** `SQL (MySQL)`
 * **Concepts:** `Advanced CTE Architecture` `Data Modeling` `Relational Aggregations` `Defensive SQL (COALESCE, NULLIF)`
 
+> **Exploratory Data Analysis:**
+> 
+> Before building the final OEI framework, I conducted a thorough exploratory data analysis across all 8 relational tables. This foundational phase covers data sanitization, customer segmentation, promotional price elasticity, supplier lead-time profiling, and channel-level ROAS attribution. You can explore the complete, fully documented query sequence in the /SQL_scripts directory.
