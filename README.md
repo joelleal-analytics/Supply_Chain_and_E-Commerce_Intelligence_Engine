@@ -65,4 +65,4 @@ To translate these analytical findings into measurable business value, leadershi
 
 > **Exploratory Data Analysis:**
 > 
-> Before building the final OEI framework, I conducted a thorough exploratory data analysis across all 8 relational tables. This foundational phase covers data sanitization, customer segmentation, promotional price elasticity, supplier lead-time profiling, and channel-level ROAS attribution. You can explore the complete, fully documented query sequence in the /SQL_scripts directory.
+> Before building the final OEI framework, I conducted a thorough exploratory data analysis across all 8 relational tables. This foundational phase covers data sanitization, customer segmentation, promotional price elasticity, supplier lead-time profiling, and channel-level ROAS attribution. You can explore the complete, fully documented query sequence in the **[`/SQL_scripts`](https://github.com/joelleal-analytics/Supply_Chain_and_E-Commerce_Intelligence_Engine/tree/main/SQL_scripts)** directory.
