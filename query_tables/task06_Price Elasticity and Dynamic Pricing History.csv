@@ -1,0 +1,15 @@
+category,is_promotional,avg_selling_price_usd,total_units_sold,total_revenue_usd,avg_price_elasticity
+"Toys & Games",True,68.76,3154,229248.07,-1.74
+"Toys & Games",False,88.13,15893,1187319.14,-1.71
+"Sports & Outdoors",True,251.45,4218,1051218.59,-1.67
+"Home & Kitchen",False,199.48,33972,6197922.26,-1.66
+"Sports & Outdoors",False,319.24,26300,6648954.35,-1.66
+Clothing,False,171.33,50183,7513214.49,-1.65
+"Home & Kitchen",True,152.75,5415,964047.92,-1.65
+Clothing,True,135.38,8919,1329850.66,-1.63
+Electronics,False,689.95,33446,20876041.34,-1.58
+"Beauty & Health",False,119.15,20563,2335864.96,-1.58
+Electronics,True,610.66,5180,3508927.47,-1.57
+"Beauty & Health",True,91.79,3173,329256.02,-1.57
+Books,False,38.55,18651,606176.28,-1.56
+Books,True,30.33,2977,93918.49,-1.51

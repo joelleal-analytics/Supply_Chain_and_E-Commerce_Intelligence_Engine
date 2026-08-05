@@ -1,0 +1,501 @@
+product_id,name,category,avg_stock_units,total_revenue_usd,total_refunds_usd,refund_rate_pct,OEI_score
+PROD0400,"FunZone Electronics Item 400",Electronics,20,115039.83,1431.57,1.24,97.32
+PROD0270,"ActiveGear Home Item 270","Home & Kitchen",8,42768.7,588.03,1.37,97.18
+PROD0322,"FunZone Home Item 322","Home & Kitchen",14,123507.14,1933.89,1.57,96.72
+PROD0263,"PureForm Sports Item 263","Sports & Outdoors",2,85413.98,1459.23,1.71,96.56
+PROD0439,"BoldEdge Clothing Item 439",Clothing,15,11148.59,202.12,1.81,96.23
+PROD0300,"ClearView Electronics Item 300",Electronics,13,93898.56,1773.13,1.89,96.09
+PROD0025,"ActiveGear Toys Item 25","Toys & Games",4,18624.35,386.28,2.07,95.82
+PROD0387,"PureForm Sports Item 387","Sports & Outdoors",7,12950.49,272.82,2.11,95.71
+PROD0469,"ClearView Clothing Item 469",Clothing,20,67688.99,1394.75,2.06,95.68
+PROD0232,"NexGen Clothing Item 232",Clothing,6,34933.74,778.5,2.23,95.48
+PROD0302,"PrimeLine Electronics Item 302",Electronics,9,296475.72,6987.64,2.36,95.19
+PROD0083,"HomePro Books Item 83",Books,4,12517.81,311.59,2.49,94.98
+PROD0332,"NovaTech Toys Item 332","Toys & Games",28,45842.94,1099.22,2.4,94.92
+PROD0268,"NexGen Electronics Item 268",Electronics,3,17595.61,451.88,2.57,94.83
+PROD0122,"NexGen Electronics Item 122",Electronics,6,160647.05,4186.25,2.61,94.72
+PROD0067,"NovaTech Home Item 67","Home & Kitchen",19,24581.74,627.43,2.55,94.71
+PROD0346,"GlowUp Electronics Item 346",Electronics,4,48712.93,1278.86,2.63,94.7
+PROD0275,"ClearView Books Item 275",Books,4,3657.95,100.15,2.74,94.48
+PROD0233,"ClearView Home Item 233","Home & Kitchen",13,11478.32,341.37,2.97,93.93
+PROD0446,"FunZone Clothing Item 446",Clothing,11,7386.14,222.27,3.01,93.87
+PROD0329,"NovaTech Clothing Item 329",Clothing,5,22488.71,685.23,3.05,93.85
+PROD0440,"PureForm Electronics Item 440",Electronics,2,46416.01,1461.1,3.15,93.68
+PROD0409,"ClearView Clothing Item 409",Clothing,6,61713.56,1952.72,3.16,93.62
+PROD0236,"StyleCo Electronics Item 236",Electronics,2,117338.11,3746.26,3.19,93.6
+PROD0161,"ClearView Toys Item 161","Toys & Games",4,38264.16,1222.92,3.2,93.56
+PROD0376,"PrimeLine Electronics Item 376",Electronics,10,54353.59,1764.8,3.25,93.4
+PROD0317,"BoldEdge Clothing Item 317",Clothing,15,71084.86,2355.11,3.31,93.23
+PROD0218,"ActiveGear Beauty Item 218","Beauty & Health",22,43927.32,1449.7,3.3,93.18
+PROD0418,"NexGen Books Item 418",Books,6,8315.94,283.86,3.41,93.12
+PROD0040,"PrimeLine Electronics Item 40",Electronics,4,115501.16,3962.35,3.43,93.1
+PROD0243,"StyleCo Electronics Item 243",Electronics,7,223476.45,7663.8,3.43,93.07
+PROD0079,"PrimeLine Beauty Item 79","Beauty & Health",19,3825.95,130.71,3.42,92.97
+PROD0489,"StyleCo Toys Item 489","Toys & Games",10,4173.74,145.87,3.49,92.92
+PROD0344,"PureForm Electronics Item 344",Electronics,7,237092.9,8317.16,3.51,92.91
+PROD0225,"PrimeLine Home Item 225","Home & Kitchen",9,70451.78,2466.13,3.5,92.91
+PROD0120,"PureForm Home Item 120","Home & Kitchen",17,40694.54,1410.78,3.47,92.89
+PROD0138,"CoreBrand Books Item 138",Books,12,22198.94,782.83,3.53,92.82
+PROD0003,"GlowUp Home Item 3","Home & Kitchen",11,61507.21,2176.77,3.54,92.81
+PROD0058,"ActiveGear Clothing Item 58",Clothing,13,154132.78,5445.42,3.53,92.81
+PROD0433,"FunZone Books Item 433",Books,12,11019.54,396.81,3.6,92.68
+PROD0162,"ActiveGear Clothing Item 162",Clothing,13,25360.38,912.29,3.6,92.67
+PROD0007,"NexGen Books Item 7",Books,4,10261.36,377.22,3.68,92.6
+PROD0132,"BoldEdge Sports Item 132","Sports & Outdoors",19,76434.04,2763.11,3.62,92.57
+PROD0134,"PrimeLine Electronics Item 134",Electronics,22,282424.54,10295.93,3.65,92.48
+PROD0217,"ActiveGear Clothing Item 217",Clothing,7,53170.69,1992.48,3.75,92.43
+PROD0177,"BoldEdge Clothing Item 177",Clothing,7,71565.89,2702.75,3.78,92.37
+PROD0294,"PureForm Sports Item 294","Sports & Outdoors",19,57444.12,2145.37,3.73,92.35
+PROD0206,"HomePro Clothing Item 206",Clothing,24,163474.69,6083.38,3.72,92.32
+PROD0181,"NovaTech Books Item 181",Books,13,6791.45,256.77,3.78,92.31
+PROD0194,"ZenLife Sports Item 194","Sports & Outdoors",24,167688.18,6308.31,3.76,92.24
+PROD0465,"HomePro Electronics Item 465",Electronics,21,245981.96,9330.64,3.79,92.21
+PROD0030,"FunZone Beauty Item 30","Beauty & Health",29,45704.47,1713.7,3.75,92.21
+PROD0318,"StyleCo Electronics Item 318",Electronics,20,579663.74,22016.19,3.8,92.2
+PROD0354,"ActiveGear Books Item 354",Books,17,20908.73,798.71,3.82,92.19
+PROD0402,"CoreBrand Beauty Item 402","Beauty & Health",3,7434.32,289.68,3.9,92.17
+PROD0480,"PureForm Sports Item 480","Sports & Outdoors",10,165475.67,6445.87,3.9,92.1
+PROD0423,"BoldEdge Sports Item 423","Sports & Outdoors",13,134064.84,5275.87,3.94,91.99
+PROD0113,"BoldEdge Books Item 113",Books,15,14107.94,554.81,3.93,91.99
+PROD0262,"FunZone Clothing Item 262",Clothing,9,75485.53,3059.94,4.05,91.81
+PROD0485,"NovaTech Books Item 485",Books,31,20688.23,819.42,3.96,91.77
+PROD0189,"GlowUp Beauty Item 189","Beauty & Health",18,11988.96,483.04,4.03,91.76
+PROD0266,"StyleCo Home Item 266","Home & Kitchen",13,71275.8,2891.18,4.06,91.75
+PROD0390,"NexGen Electronics Item 390",Electronics,12,277105.51,11327.46,4.09,91.7
+PROD0035,"ClearView Books Item 35",Books,57,16640.72,647.66,3.89,91.65
+PROD0428,"NovaTech Electronics Item 428",Electronics,5,26406.81,1094.72,4.15,91.65
+PROD0444,"GlowUp Home Item 444","Home & Kitchen",16,92261.2,3790.25,4.11,91.62
+PROD0062,"StyleCo Books Item 62",Books,14,11583.17,476.74,4.12,91.62
+PROD0192,"NexGen Electronics Item 192",Electronics,6,324690.41,13532.67,4.17,91.6
+PROD0178,"ReadMore Clothing Item 178",Clothing,17,42094.25,1737.68,4.13,91.57
+PROD0024,"CoreBrand Toys Item 24","Toys & Games",8,30552.97,1276.69,4.18,91.56
+PROD0364,"StyleCo Home Item 364","Home & Kitchen",3,19674.58,828.14,4.21,91.55
+PROD0405,"CoreBrand Clothing Item 405",Clothing,12,64219.11,2687.07,4.18,91.52
+PROD0010,"FunZone Sports Item 10","Sports & Outdoors",20,15168.28,635.04,4.19,91.42
+PROD0042,"NexGen Electronics Item 42",Electronics,5,206256.47,8818.68,4.28,91.39
+PROD0077,"ReadMore Home Item 77","Home & Kitchen",5,69594.81,2989.42,4.3,91.35
+PROD0155,"ActiveGear Sports Item 155","Sports & Outdoors",21,28586.58,1209.08,4.23,91.33
+PROD0152,"FunZone Toys Item 152","Toys & Games",11,32411.37,1391.13,4.29,91.31
+PROD0252,"BoldEdge Toys Item 252","Toys & Games",29,44583.15,1886.79,4.23,91.25
+PROD0019,"StyleCo Beauty Item 19","Beauty & Health",17,80468.31,3467.8,4.31,91.21
+PROD0087,"NexGen Toys Item 87","Toys & Games",14,37491.04,1624.48,4.33,91.2
+PROD0500,"FunZone Beauty Item 500","Beauty & Health",7,22530.97,989.28,4.39,91.15
+PROD0057,"FunZone Clothing Item 57",Clothing,4,44151.93,1945.27,4.41,91.14
+PROD0278,"ZenLife Electronics Item 278",Electronics,10,69017.97,3035.78,4.4,91.1
+PROD0283,"FunZone Home Item 283","Home & Kitchen",9,52552.23,2331.21,4.44,91.03
+PROD0281,"PureForm Electronics Item 281",Electronics,10,313511.74,13948.42,4.45,91
+PROD0410,"ZenLife Clothing Item 410",Clothing,42,92471.65,3984.62,4.31,90.96
+PROD0039,"PrimeLine Toys Item 39","Toys & Games",7,15914.33,714.04,4.49,90.95
+PROD0297,"NovaTech Electronics Item 297",Electronics,20,224323.25,9942.98,4.43,90.94
+PROD0051,"PrimeLine Clothing Item 51",Clothing,9,12421.34,558.12,4.49,90.93
+PROD0191,"ActiveGear Clothing Item 191",Clothing,6,50189.93,2319.16,4.62,90.7
+PROD0461,"ActiveGear Books Item 461",Books,3,6995.16,324.36,4.64,90.69
+PROD0137,"NexGen Sports Item 137","Sports & Outdoors",11,96954.5,4486.75,4.63,90.63
+PROD0334,"HomePro Sports Item 334","Sports & Outdoors",17,77043.4,3551.23,4.61,90.61
+PROD0096,"FunZone Books Item 96",Books,16,21587.19,999.47,4.63,90.58
+PROD0227,"BoldEdge Beauty Item 227","Beauty & Health",13,36081.23,1694.3,4.7,90.47
+PROD0394,"ActiveGear Toys Item 394","Toys & Games",7,31729.98,1503.48,4.74,90.45
+PROD0484,"FunZone Clothing Item 484",Clothing,24,83644.48,3895.31,4.66,90.44
+PROD0237,"HomePro Clothing Item 237",Clothing,25,89455.35,4186.53,4.68,90.39
+PROD0432,"ReadMore Home Item 432","Home & Kitchen",14,18552.35,880.99,4.75,90.36
+PROD0099,"CoreBrand Beauty Item 99","Beauty & Health",18,57925.7,2755.6,4.76,90.3
+PROD0210,"NovaTech Electronics Item 210",Electronics,10,38641.64,1867.65,4.83,90.24
+PROD0497,"NexGen Clothing Item 497",Clothing,6,36851.61,1796.24,4.87,90.2
+PROD0196,"NovaTech Home Item 196","Home & Kitchen",17,103470.6,4984.86,4.82,90.19
+PROD0482,"ActiveGear Home Item 482","Home & Kitchen",43,201779.01,9464.54,4.69,90.19
+PROD0116,"NexGen Clothing Item 116",Clothing,12,132907.64,6486.56,4.88,90.12
+PROD0154,"PureForm Toys Item 154","Toys & Games",7,57859.33,2855.56,4.94,90.05
+PROD0020,"NovaTech Books Item 20",Books,14,9770.38,480.72,4.92,90.02
+PROD0245,"PrimeLine Clothing Item 245",Clothing,2,50800.14,2532.89,4.99,90
+PROD0002,"PrimeLine Clothing Item 2",Clothing,5,29785.45,1484.66,4.98,89.99
+PROD0211,"PureForm Toys Item 211","Toys & Games",3,16677.47,838.36,5.03,89.91
+PROD0477,"NexGen Toys Item 477","Toys & Games",3,27980.01,1411.36,5.04,89.89
+PROD0442,"PureForm Toys Item 442","Toys & Games",6,31742.98,1595.63,5.03,89.88
+PROD0036,"NovaTech Clothing Item 36",Clothing,17,13595.56,682.44,5.02,89.79
+PROD0112,"BoldEdge Toys Item 112","Toys & Games",4,7579,386.77,5.1,89.76
+PROD0049,"ReadMore Toys Item 49","Toys & Games",10,5516.95,280.35,5.08,89.74
+PROD0175,"StyleCo Toys Item 175","Toys & Games",44,118003.31,5808.04,4.92,89.72
+PROD0443,"CoreBrand Electronics Item 443",Electronics,18,74033.13,3740.76,5.05,89.72
+PROD0013,"FunZone Clothing Item 13",Clothing,9,21028.75,1073.97,5.11,89.69
+PROD0144,"GlowUp Beauty Item 144","Beauty & Health",29,43109.96,2173.17,5.04,89.63
+PROD0156,"NovaTech Home Item 156","Home & Kitchen",12,70698.33,3630.81,5.14,89.6
+PROD0412,"GlowUp Beauty Item 412","Beauty & Health",16,71331.01,3649.15,5.12,89.6
+PROD0015,"ZenLife Electronics Item 15",Electronics,12,299425.21,15394.72,5.14,89.6
+PROD0065,"FunZone Clothing Item 65",Clothing,8,76805.67,3962.64,5.16,89.6
+PROD0378,"ReadMore Home Item 378","Home & Kitchen",17,26708.47,1369.29,5.13,89.57
+PROD0365,"BoldEdge Electronics Item 365",Electronics,38,436840.79,21953.17,5.03,89.56
+PROD0403,"PrimeLine Home Item 403","Home & Kitchen",31,12720.56,644.42,5.07,89.55
+PROD0427,"HomePro Home Item 427","Home & Kitchen",23,69931.31,3592.4,5.14,89.49
+PROD0009,"ZenLife Sports Item 9","Sports & Outdoors",10,98236.09,5141.61,5.23,89.44
+PROD0348,"ReadMore Home Item 348","Home & Kitchen",7,100990.05,5297.78,5.25,89.43
+PROD0146,"HomePro Home Item 146","Home & Kitchen",23,131831.37,6832.82,5.18,89.41
+PROD0258,"NexGen Sports Item 258","Sports & Outdoors",15,112883.72,5892.29,5.22,89.41
+PROD0078,"StyleCo Beauty Item 78","Beauty & Health",11,51072.38,2681.68,5.25,89.39
+PROD0421,"ClearView Home Item 421","Home & Kitchen",9,87654.76,4640.64,5.29,89.33
+PROD0306,"ReadMore Home Item 306","Home & Kitchen",10,57260.08,3029.33,5.29,89.32
+PROD0250,"ClearView Home Item 250","Home & Kitchen",27,145982.29,7610.24,5.21,89.31
+PROD0045,"GlowUp Electronics Item 45",Electronics,12,28950.52,1542.6,5.33,89.22
+PROD0377,"StyleCo Clothing Item 377",Clothing,6,86948.53,4668.3,5.37,89.2
+PROD0490,"NexGen Electronics Item 490",Electronics,6,248238.44,13363.48,5.38,89.18
+PROD0119,"BoldEdge Beauty Item 119","Beauty & Health",18,60498.65,3226.72,5.33,89.16
+PROD0043,"ClearView Clothing Item 43",Clothing,7,36965.6,1994.19,5.39,89.15
+PROD0034,"ClearView Toys Item 34","Toys & Games",5,35855.47,1940.68,5.41,89.13
+PROD0303,"GlowUp Electronics Item 303",Electronics,9,159300.6,8619.69,5.41,89.09
+PROD0151,"BoldEdge Home Item 151","Home & Kitchen",24,27702.54,1495.23,5.4,88.96
+PROD0182,"ReadMore Electronics Item 182",Electronics,7,179652.56,9895.46,5.51,88.91
+PROD0185,"PureForm Electronics Item 185",Electronics,4,195527.98,10818.36,5.53,88.9
+PROD0202,"FunZone Electronics Item 202",Electronics,4,57974.42,3234.58,5.58,88.8
+PROD0468,"FunZone Electronics Item 468",Electronics,23,914640.17,50192.97,5.49,88.79
+PROD0089,"PrimeLine Electronics Item 89",Electronics,13,506100.07,28047.57,5.54,88.79
+PROD0117,"ZenLife Toys Item 117","Toys & Games",3,5067.95,284.56,5.61,88.75
+PROD0447,"ClearView Clothing Item 447",Clothing,26,25197.13,1386.02,5.5,88.74
+PROD0121,"ZenLife Electronics Item 121",Electronics,13,146844.68,8174.14,5.57,88.73
+PROD0148,"ClearView Beauty Item 148","Beauty & Health",13,14736.36,821.5,5.57,88.73
+PROD0347,"HomePro Clothing Item 347",Clothing,10,192783.44,10781.92,5.59,88.72
+PROD0462,"HomePro Home Item 462","Home & Kitchen",13,3169.4,177.92,5.61,88.65
+PROD0457,"NovaTech Home Item 457","Home & Kitchen",4,70679.4,4004.44,5.67,88.62
+PROD0102,"NovaTech Sports Item 102","Sports & Outdoors",18,42514.82,2385.17,5.61,88.6
+PROD0445,"BoldEdge Home Item 445","Home & Kitchen",18,60896.06,3418.69,5.61,88.6
+PROD0374,"NexGen Clothing Item 374",Clothing,3,74197.5,4221.83,5.69,88.59
+PROD0407,"GlowUp Clothing Item 407",Clothing,10,126585.6,7196,5.68,88.54
+PROD0241,"PureForm Books Item 241",Books,4,22549.76,1293.31,5.74,88.48
+PROD0068,"PureForm Electronics Item 68",Electronics,10,144483.74,8245.8,5.71,88.48
+PROD0207,"BoldEdge Sports Item 207","Sports & Outdoors",25,164283.92,9268.05,5.64,88.47
+PROD0086,"ActiveGear Clothing Item 86",Clothing,11,11933.48,682.55,5.72,88.45
+PROD0325,"ReadMore Clothing Item 325",Clothing,15,38033.08,2175,5.72,88.41
+PROD0417,"PureForm Sports Item 417","Sports & Outdoors",7,7206.54,416.42,5.78,88.37
+PROD0398,"PureForm Electronics Item 398",Electronics,28,458099.62,26177.12,5.71,88.3
+PROD0370,"GlowUp Sports Item 370","Sports & Outdoors",20,249717.08,14349.64,5.75,88.3
+PROD0135,"ActiveGear Electronics Item 135",Electronics,13,241893.86,14008.68,5.79,88.29
+PROD0145,"ActiveGear Sports Item 145","Sports & Outdoors",15,169496.51,9791.02,5.78,88.29
+PROD0186,"BoldEdge Home Item 186","Home & Kitchen",15,50820.12,2962.7,5.83,88.19
+PROD0026,"BoldEdge Clothing Item 26",Clothing,52,97893.45,5546.11,5.67,88.14
+PROD0221,"PureForm Sports Item 221","Sports & Outdoors",21,100165.56,5849.54,5.84,88.11
+PROD0033,"ActiveGear Books Item 33",Books,11,13423.41,796.59,5.93,88.03
+PROD0193,"CoreBrand Books Item 193",Books,13,14792.31,876.58,5.93,88.01
+PROD0259,"CoreBrand Electronics Item 259",Electronics,6,172603.16,10315.94,5.98,87.98
+PROD0470,"GlowUp Clothing Item 470",Clothing,5,110517.99,6630.52,6,87.95
+PROD0384,"GlowUp Home Item 384","Home & Kitchen",16,101189.62,6019.73,5.95,87.94
+PROD0004,"HomePro Electronics Item 4",Electronics,16,413237.16,24615.73,5.96,87.92
+PROD0188,"ClearView Beauty Item 188","Beauty & Health",9,29043.61,1742.97,6,87.91
+PROD0373,"ClearView Clothing Item 373",Clothing,8,20034.8,1207.42,6.03,87.86
+PROD0333,"PrimeLine Electronics Item 333",Electronics,18,363479.08,21744.2,5.98,87.86
+PROD0031,"ZenLife Clothing Item 31",Clothing,25,47640.59,2836.37,5.95,87.85
+PROD0415,"HomePro Beauty Item 415","Beauty & Health",28,430854.82,25612.57,5.94,87.84
+PROD0169,"HomePro Electronics Item 169",Electronics,25,439460.81,26204.03,5.96,87.83
+PROD0069,"NexGen Clothing Item 69",Clothing,35,129164.13,7662.69,5.93,87.79
+PROD0246,"GlowUp Clothing Item 246",Clothing,20,141960.88,8532.1,6.01,87.78
+PROD0251,"GlowUp Books Item 251",Books,17,14627.93,881.45,6.03,87.77
+PROD0018,"NovaTech Toys Item 18","Toys & Games",7,19837.53,1207.53,6.09,87.75
+PROD0319,"ActiveGear Sports Item 319","Sports & Outdoors",13,109781.48,6677.27,6.08,87.71
+PROD0312,"ZenLife Beauty Item 312","Beauty & Health",3,17685.68,1084.11,6.13,87.71
+PROD0388,"FunZone Books Item 388",Books,14,9510.97,578.32,6.08,87.7
+PROD0316,"ZenLife Toys Item 316","Toys & Games",6,9255.52,568.39,6.14,87.66
+PROD0397,"ClearView Books Item 397",Books,16,16862.93,1026.23,6.09,87.66
+PROD0324,"ClearView Beauty Item 324","Beauty & Health",43,167636.56,10012.46,5.97,87.63
+PROD0084,"ClearView Toys Item 84","Toys & Games",61,88437,5217.17,5.9,87.59
+PROD0205,"StyleCo Books Item 205",Books,13,15977.46,982.02,6.15,87.57
+PROD0320,"BoldEdge Home Item 320","Home & Kitchen",19,74749.2,4582.48,6.13,87.55
+PROD0029,"PureForm Home Item 29","Home & Kitchen",27,83043.57,5068.66,6.1,87.53
+PROD0147,"FunZone Home Item 147","Home & Kitchen",7,59848.94,3712.37,6.2,87.53
+PROD0368,"BoldEdge Clothing Item 368",Clothing,10,76648.71,4755.85,6.2,87.5
+PROD0136,"ClearView Toys Item 136","Toys & Games",21,31639.2,1953.03,6.17,87.45
+PROD0223,"ReadMore Sports Item 223","Sports & Outdoors",25,148304.9,9165.08,6.18,87.39
+PROD0350,"BoldEdge Sports Item 350","Sports & Outdoors",18,130203.72,8113.24,6.23,87.36
+PROD0375,"BoldEdge Home Item 375","Home & Kitchen",7,94647.58,5952.62,6.29,87.35
+PROD0361,"GlowUp Electronics Item 361",Electronics,7,285264.86,17977.11,6.3,87.33
+PROD0309,"NovaTech Clothing Item 309",Clothing,6,67599.48,4274.06,6.32,87.3
+PROD0296,"HomePro Sports Item 296","Sports & Outdoors",19,106081.36,6645.28,6.26,87.29
+PROD0063,"BoldEdge Clothing Item 63",Clothing,11,82414.51,5200.83,6.31,87.27
+PROD0430,"NovaTech Toys Item 430","Toys & Games",19,25172.99,1584.5,6.29,87.23
+PROD0315,"StyleCo Home Item 315","Home & Kitchen",10,4439.01,281.6,6.34,87.22
+PROD0419,"NovaTech Home Item 419","Home & Kitchen",11,121702.81,7726.04,6.35,87.19
+PROD0047,"CoreBrand Sports Item 47","Sports & Outdoors",17,111790.26,7083.87,6.34,87.15
+PROD0131,"ActiveGear Electronics Item 131",Electronics,6,74145.34,4768.95,6.43,87.08
+PROD0331,"NexGen Clothing Item 331",Clothing,38,115285.64,7238.89,6.28,87.06
+PROD0345,"ClearView Electronics Item 345",Electronics,3,63578.2,4124.44,6.49,86.99
+PROD0140,"ZenLife Clothing Item 140",Clothing,31,74421.02,4742.85,6.37,86.95
+PROD0277,"CoreBrand Electronics Item 277",Electronics,5,147028.17,9556.14,6.5,86.95
+PROD0111,"ActiveGear Books Item 111",Books,24,5091.16,326.8,6.42,86.92
+PROD0475,"ActiveGear Books Item 475",Books,20,16552.37,1067.65,6.45,86.9
+PROD0352,"PrimeLine Books Item 352",Books,9,9769.7,636.08,6.51,86.89
+PROD0338,"NexGen Beauty Item 338","Beauty & Health",43,137517.09,8720.19,6.34,86.89
+PROD0494,"NexGen Clothing Item 494",Clothing,4,81947.44,5367.97,6.55,86.86
+PROD0017,"ReadMore Sports Item 17","Sports & Outdoors",57,204101.02,12871.02,6.31,86.81
+PROD0128,"GlowUp Sports Item 128","Sports & Outdoors",24,193894.74,12604.46,6.5,86.76
+PROD0142,"HomePro Beauty Item 142","Beauty & Health",16,27055.44,1776.09,6.56,86.72
+PROD0130,"BoldEdge Clothing Item 130",Clothing,33,75459.41,4890.17,6.48,86.71
+PROD0257,"NovaTech Home Item 257","Home & Kitchen",3,44979.44,3000.09,6.67,86.63
+PROD0114,"PrimeLine Electronics Item 114",Electronics,12,491246.69,32579.49,6.63,86.62
+PROD0088,"HomePro Beauty Item 88","Beauty & Health",33,41138.2,2684.91,6.53,86.61
+PROD0219,"ClearView Books Item 219",Books,23,13363.68,880.61,6.59,86.59
+PROD0452,"FunZone Clothing Item 452",Clothing,70,171382.55,10892.22,6.36,86.58
+PROD0424,"GlowUp Toys Item 424","Toys & Games",16,34594.68,2299.43,6.65,86.54
+PROD0187,"ClearView Clothing Item 187",Clothing,21,86952.74,5765.02,6.63,86.53
+PROD0313,"NexGen Beauty Item 313","Beauty & Health",15,175744.04,11754.02,6.69,86.47
+PROD0052,"BoldEdge Sports Item 52","Sports & Outdoors",16,38495.33,2580.8,6.7,86.44
+PROD0213,"FunZone Books Item 213",Books,12,7436.58,500.13,6.73,86.42
+PROD0481,"ActiveGear Home Item 481","Home & Kitchen",10,78702.79,5311.84,6.75,86.4
+PROD0301,"FunZone Beauty Item 301","Beauty & Health",10,55836.06,3768.02,6.75,86.4
+PROD0066,"ZenLife Home Item 66","Home & Kitchen",18,85398.25,5742.24,6.72,86.38
+PROD0095,"ClearView Electronics Item 95",Electronics,4,245734.05,16685.02,6.79,86.38
+PROD0166,"HomePro Books Item 166",Books,6,18900.09,1282.02,6.78,86.38
+PROD0310,"PrimeLine Home Item 310","Home & Kitchen",13,47871.19,3235.47,6.76,86.35
+PROD0199,"NexGen Electronics Item 199",Electronics,14,178956.06,12116.8,6.77,86.32
+PROD0038,"CoreBrand Clothing Item 38",Clothing,31,87976.6,5887.99,6.69,86.31
+PROD0022,"ClearView Clothing Item 22",Clothing,18,9397.48,635.85,6.77,86.28
+PROD0222,"CoreBrand Home Item 222","Home & Kitchen",29,40211.56,2703.37,6.72,86.27
+PROD0381,"CoreBrand Electronics Item 381",Electronics,12,88960.87,6056.73,6.81,86.26
+PROD0466,"PureForm Sports Item 466","Sports & Outdoors",14,119495.47,8141.21,6.81,86.24
+PROD0127,"FunZone Electronics Item 127",Electronics,9,218473.42,14933.19,6.84,86.23
+PROD0392,"ReadMore Books Item 392",Books,14,4971.92,339.45,6.83,86.2
+PROD0011,"NovaTech Beauty Item 11","Beauty & Health",6,66501.9,4571.25,6.87,86.2
+PROD0005,"HomePro Clothing Item 5",Clothing,21,7004.36,477.25,6.81,86.17
+PROD0486,"ReadMore Toys Item 486","Toys & Games",45,63431.56,4244.59,6.69,86.17
+PROD0435,"FunZone Clothing Item 435",Clothing,13,81770.39,5612.48,6.86,86.15
+PROD0105,"FunZone Clothing Item 105",Clothing,6,49055.37,3401.33,6.93,86.08
+PROD0064,"HomePro Toys Item 64","Toys & Games",12,20152.32,1394.26,6.92,86.04
+PROD0220,"GlowUp Clothing Item 220",Clothing,11,57203.63,3969.58,6.94,86.01
+PROD0235,"NovaTech Clothing Item 235",Clothing,8,54729.15,3816.19,6.97,85.98
+PROD0028,"GlowUp Home Item 28","Home & Kitchen",38,146256.3,9991.84,6.83,85.96
+PROD0061,"HomePro Beauty Item 61","Beauty & Health",11,74119.33,5162.54,6.97,85.95
+PROD0180,"ClearView Sports Item 180","Sports & Outdoors",32,31678.07,2176.28,6.87,85.94
+PROD0305,"ActiveGear Clothing Item 305",Clothing,21,54060.81,3748.83,6.93,85.93
+PROD0276,"ClearView Electronics Item 276",Electronics,132,1991900.86,127033.29,6.38,85.92
+PROD0335,"BoldEdge Electronics Item 335",Electronics,11,39403.51,2769.67,7.03,85.83
+PROD0129,"PureForm Electronics Item 129",Electronics,36,255137.93,17641.71,6.91,85.82
+PROD0173,"HomePro Sports Item 173","Sports & Outdoors",26,282261.7,19848.74,7.03,85.68
+PROD0230,"GlowUp Home Item 230","Home & Kitchen",38,17246.74,1204.31,6.98,85.66
+PROD0291,"CoreBrand Home Item 291","Home & Kitchen",38,168576.73,11771.45,6.98,85.66
+PROD0172,"HomePro Books Item 172",Books,15,12015.06,853.12,7.1,85.65
+PROD0496,"PureForm Home Item 496","Home & Kitchen",7,121529.09,8688.96,7.15,85.63
+PROD0395,"BoldEdge Sports Item 395","Sports & Outdoors",21,146396.78,10363.1,7.08,85.63
+PROD0224,"GlowUp Books Item 224",Books,17,15678.18,1113.75,7.1,85.63
+PROD0170,"CoreBrand Books Item 170",Books,12,6303.53,449.72,7.13,85.62
+PROD0274,"ZenLife Beauty Item 274","Beauty & Health",12,39429.52,2842.17,7.21,85.46
+PROD0239,"CoreBrand Clothing Item 239",Clothing,19,17616.78,1264.86,7.18,85.45
+PROD0467,"FunZone Home Item 467","Home & Kitchen",21,510862.7,36733.84,7.19,85.41
+PROD0280,"ReadMore Clothing Item 280",Clothing,20,146302.2,10561.43,7.22,85.36
+PROD0044,"GlowUp Home Item 44","Home & Kitchen",10,223208.6,16222.64,7.27,85.36
+PROD0360,"ActiveGear Clothing Item 360",Clothing,14,88574.58,6424.04,7.25,85.36
+PROD0075,"ReadMore Sports Item 75","Sports & Outdoors",31,257322.06,18488.07,7.18,85.33
+PROD0153,"GlowUp Sports Item 153","Sports & Outdoors",78,370481.92,25756.15,6.95,85.32
+PROD0164,"ReadMore Home Item 164","Home & Kitchen",16,68493.78,4979.88,7.27,85.3
+PROD0016,"NexGen Books Item 16",Books,8,8935.42,654.57,7.33,85.26
+PROD0195,"GlowUp Sports Item 195","Sports & Outdoors",35,197839.65,14239.89,7.2,85.25
+PROD0299,"GlowUp Books Item 299",Books,22,16773.16,1221.17,7.28,85.22
+PROD0371,"CoreBrand Home Item 371","Home & Kitchen",22,89718.52,6544.23,7.29,85.2
+PROD0059,"BoldEdge Clothing Item 59",Clothing,5,51518.8,3808,7.39,85.17
+PROD0106,"PureForm Home Item 106","Home & Kitchen",10,83508.11,6163.27,7.38,85.14
+PROD0247,"ZenLife Home Item 247","Home & Kitchen",86,435002.63,30502.97,7.01,85.12
+PROD0056,"GlowUp Books Item 56",Books,10,13078.1,966.93,7.39,85.12
+PROD0293,"NovaTech Beauty Item 293","Beauty & Health",8,29362.59,2173.63,7.4,85.12
+PROD0229,"HomePro Electronics Item 229",Electronics,13,496963.92,36685.5,7.38,85.11
+PROD0260,"NovaTech Electronics Item 260",Electronics,23,191701.19,14059.66,7.33,85.11
+PROD0080,"GlowUp Home Item 80","Home & Kitchen",34,79021.28,5751.73,7.28,85.1
+PROD0311,"PrimeLine Home Item 311","Home & Kitchen",25,91671.03,6730.02,7.34,85.07
+PROD0228,"ZenLife Home Item 228","Home & Kitchen",13,18209.4,1349.46,7.41,85.05
+PROD0254,"NovaTech Clothing Item 254",Clothing,2,45314.33,3385.62,7.47,85.04
+PROD0244,"BoldEdge Books Item 244",Books,16,12370.38,916.39,7.41,85.02
+PROD0488,"BoldEdge Home Item 488","Home & Kitchen",18,75279.06,5572.46,7.4,85.02
+PROD0001,"CoreBrand Books Item 1",Books,16,7841.65,582.24,7.42,85
+PROD0265,"HomePro Home Item 265","Home & Kitchen",11,77658.38,5787.9,7.45,84.99
+PROD0292,"ZenLife Toys Item 292","Toys & Games",6,10352.82,773.9,7.48,84.98
+PROD0498,"ZenLife Clothing Item 498",Clothing,2,16737.17,1257.25,7.51,84.96
+PROD0242,"ZenLife Sports Item 242","Sports & Outdoors",15,135777.7,10140.43,7.47,84.91
+PROD0054,"FunZone Clothing Item 54",Clothing,13,59753.7,4476.53,7.49,84.89
+PROD0351,"PrimeLine Electronics Item 351",Electronics,2,22347.14,1687.65,7.55,84.88
+PROD0139,"ReadMore Home Item 139","Home & Kitchen",10,75881.84,5716.2,7.53,84.84
+PROD0343,"CoreBrand Clothing Item 343",Clothing,24,92228.68,6888.84,7.47,84.82
+PROD0491,"ClearView Books Item 491",Books,4,5910.96,448,7.58,84.8
+PROD0437,"ActiveGear Clothing Item 437",Clothing,22,63234.1,4743.48,7.5,84.78
+PROD0048,"FunZone Beauty Item 48","Beauty & Health",7,50928.59,3858.85,7.58,84.77
+PROD0248,"ActiveGear Home Item 248","Home & Kitchen",38,98734.3,7336.37,7.43,84.76
+PROD0478,"ActiveGear Clothing Item 478",Clothing,12,21032.46,1589.84,7.56,84.76
+PROD0499,"BoldEdge Clothing Item 499",Clothing,31,17315.22,1293.3,7.47,84.75
+PROD0123,"ClearView Beauty Item 123","Beauty & Health",11,12584.94,952.32,7.57,84.75
+PROD0339,"NovaTech Home Item 339","Home & Kitchen",22,127267.65,9587.92,7.53,84.72
+PROD0261,"ZenLife Electronics Item 261",Electronics,21,352878.51,26660.19,7.56,84.67
+PROD0107,"NexGen Clothing Item 107",Clothing,32,340156.05,25638.38,7.54,84.6
+PROD0463,"NexGen Sports Item 463","Sports & Outdoors",16,164063.49,12509.17,7.62,84.6
+PROD0284,"HomePro Electronics Item 284",Electronics,23,246756.25,18836.85,7.63,84.51
+PROD0174,"ActiveGear Electronics Item 174",Electronics,15,517829.93,39824.4,7.69,84.47
+PROD0426,"StyleCo Clothing Item 426",Clothing,3,72013.82,5603.9,7.78,84.41
+PROD0093,"ReadMore Clothing Item 93",Clothing,17,55033.28,4269.6,7.76,84.31
+PROD0253,"BoldEdge Sports Item 253","Sports & Outdoors",24,93672.42,7243.03,7.73,84.3
+PROD0326,"ReadMore Home Item 326","Home & Kitchen",8,93676.1,7327.23,7.82,84.28
+PROD0434,"BoldEdge Beauty Item 434","Beauty & Health",14,10225.23,796.05,7.79,84.28
+PROD0429,"FunZone Clothing Item 429",Clothing,3,42709.41,3358.06,7.86,84.25
+PROD0125,"CoreBrand Electronics Item 125",Electronics,47,441998.11,33840.07,7.66,84.21
+PROD0472,"NovaTech Home Item 472","Home & Kitchen",35,260455.88,20193.24,7.75,84.15
+PROD0037,"PureForm Beauty Item 37","Beauty & Health",22,15500.8,1211.84,7.82,84.14
+PROD0340,"ClearView Beauty Item 340","Beauty & Health",7,40332.93,3186.9,7.9,84.13
+PROD0382,"StyleCo Clothing Item 382",Clothing,37,13013.44,1009.5,7.76,84.11
+PROD0143,"StyleCo Electronics Item 143",Electronics,5,409830.32,32487.64,7.93,84.09
+PROD0158,"StyleCo Sports Item 158","Sports & Outdoors",6,39474.87,3135.87,7.94,84.06
+PROD0323,"ActiveGear Home Item 323","Home & Kitchen",20,189283.92,14930.92,7.89,84.02
+PROD0404,"GlowUp Books Item 404",Books,11,3141.1,249.35,7.94,84.01
+PROD0204,"ZenLife Electronics Item 204",Electronics,14,311379.89,24679.91,7.93,84
+PROD0100,"BoldEdge Sports Item 100","Sports & Outdoors",16,109758.67,8758.68,7.98,83.88
+PROD0385,"HomePro Home Item 385","Home & Kitchen",18,40457.47,3242.04,8.01,83.8
+PROD0336,"PrimeLine Books Item 336",Books,30,63001.6,5016.13,7.96,83.78
+PROD0287,"BoldEdge Sports Item 287","Sports & Outdoors",18,34780.66,2788.35,8.02,83.78
+PROD0081,"CoreBrand Sports Item 81","Sports & Outdoors",10,189905.22,15400.98,8.11,83.68
+PROD0355,"NovaTech Books Item 355",Books,8,9646.74,783.89,8.13,83.66
+PROD0353,"ActiveGear Home Item 353","Home & Kitchen",66,209449.44,16449.81,7.85,83.64
+PROD0190,"PrimeLine Home Item 190","Home & Kitchen",5,57196.83,4667.02,8.16,83.63
+PROD0215,"ActiveGear Sports Item 215","Sports & Outdoors",22,112657.2,9103.24,8.08,83.62
+PROD0349,"BoldEdge Toys Item 349","Toys & Games",32,57842.08,4655.5,8.05,83.58
+PROD0264,"ActiveGear Clothing Item 264",Clothing,9,179491.11,14672.69,8.17,83.57
+PROD0396,"PureForm Clothing Item 396",Clothing,64,52034.8,4123.58,7.92,83.52
+PROD0159,"CoreBrand Sports Item 159","Sports & Outdoors",20,21024.92,1710.95,8.14,83.52
+PROD0109,"BoldEdge Clothing Item 109",Clothing,15,37387.41,3056.37,8.17,83.51
+PROD0456,"PureForm Electronics Item 456",Electronics,16,73441.05,6000.42,8.17,83.5
+PROD0379,"BoldEdge Books Item 379",Books,10,3721.3,305.85,8.22,83.46
+PROD0330,"GlowUp Home Item 330","Home & Kitchen",12,5729.57,472.19,8.24,83.4
+PROD0226,"StyleCo Sports Item 226","Sports & Outdoors",23,80966.56,6639.22,8.2,83.37
+PROD0249,"HomePro Books Item 249",Books,5,7320.51,607.05,8.29,83.37
+PROD0023,"FunZone Clothing Item 23",Clothing,111,166958,12985.12,7.78,83.33
+PROD0150,"PureForm Electronics Item 150",Electronics,11,341868.61,28310.38,8.28,83.33
+PROD0073,"HomePro Clothing Item 73",Clothing,4,26254.58,2183.95,8.32,83.32
+PROD0492,"PureForm Clothing Item 492",Clothing,12,20009.15,1657.48,8.28,83.32
+PROD0060,"NovaTech Clothing Item 60",Clothing,4,34868.18,2905.26,8.33,83.3
+PROD0184,"ZenLife Home Item 184","Home & Kitchen",13,92655.57,7706.14,8.32,83.23
+PROD0126,"HomePro Sports Item 126","Sports & Outdoors",17,192446.18,16033.71,8.33,83.17
+PROD0414,"CoreBrand Sports Item 414","Sports & Outdoors",3,175574.68,14784.99,8.42,83.13
+PROD0267,"FunZone Electronics Item 267",Electronics,17,202116.89,16919.02,8.37,83.09
+PROD0171,"GlowUp Sports Item 171","Sports & Outdoors",9,145019.24,12245.08,8.44,83.03
+PROD0367,"ZenLife Clothing Item 367",Clothing,15,26507.39,2233.2,8.42,83.01
+PROD0295,"ActiveGear Sports Item 295","Sports & Outdoors",5,119066.46,10111.58,8.49,82.97
+PROD0014,"GlowUp Toys Item 14","Toys & Games",21,33632.24,2833.36,8.42,82.95
+PROD0240,"PureForm Books Item 240",Books,22,32824.39,2763.56,8.42,82.94
+PROD0082,"CoreBrand Clothing Item 82",Clothing,17,4779.01,405,8.47,82.89
+PROD0327,"ClearView Beauty Item 327","Beauty & Health",37,98727.32,8276.1,8.38,82.87
+PROD0200,"CoreBrand Clothing Item 200",Clothing,23,96005.3,8122.41,8.46,82.85
+PROD0104,"ClearView Toys Item 104","Toys & Games",38,31262.77,2622.98,8.39,82.84
+PROD0386,"CoreBrand Electronics Item 386",Electronics,37,51367.64,4316.6,8.4,82.83
+PROD0255,"BoldEdge Home Item 255","Home & Kitchen",7,103486.53,8866.38,8.57,82.79
+PROD0290,"BoldEdge Electronics Item 290",Electronics,22,335948.42,28858.24,8.59,82.6
+PROD0115,"GlowUp Electronics Item 115",Electronics,69,827586.55,69328.02,8.38,82.55
+PROD0449,"ClearView Electronics Item 449",Electronics,18,52929.82,4572.08,8.64,82.54
+PROD0431,"StyleCo Clothing Item 431",Clothing,10,54780.73,4772.98,8.71,82.48
+PROD0157,"BoldEdge Books Item 157",Books,4,6449.43,564.93,8.76,82.44
+PROD0285,"ZenLife Clothing Item 285",Clothing,33,189574.21,16427.32,8.67,82.33
+PROD0474,"NovaTech Beauty Item 474","Beauty & Health",8,64715.66,5730.12,8.85,82.22
+PROD0074,"FunZone Electronics Item 74",Electronics,11,393781.88,34816.94,8.84,82.21
+PROD0328,"StyleCo Home Item 328","Home & Kitchen",11,30662.92,2712.63,8.85,82.19
+PROD0103,"GlowUp Clothing Item 103",Clothing,49,218192.51,18952.52,8.69,82.13
+PROD0393,"HomePro Electronics Item 393",Electronics,3,144109.72,12865.29,8.93,82.11
+PROD0451,"BoldEdge Clothing Item 451",Clothing,15,51747.87,4596.25,8.88,82.09
+PROD0163,"PrimeLine Beauty Item 163","Beauty & Health",7,40970.89,3662.4,8.94,82.05
+PROD0179,"ClearView Beauty Item 179","Beauty & Health",2,35393.34,3176.59,8.98,82.02
+PROD0357,"GlowUp Beauty Item 357","Beauty & Health",22,32500.82,2889.17,8.89,82
+PROD0012,"GlowUp Electronics Item 12",Electronics,33,535522.6,47338.83,8.84,81.99
+PROD0273,"GlowUp Electronics Item 273",Electronics,13,272993.24,24467.56,8.96,81.95
+PROD0272,"FunZone Sports Item 272","Sports & Outdoors",18,17009.22,1521.37,8.94,81.94
+PROD0383,"CoreBrand Clothing Item 383",Clothing,4,37463.33,3374.84,9.01,81.94
+PROD0401,"ZenLife Beauty Item 401","Beauty & Health",19,12672.57,1133.04,8.94,81.93
+PROD0282,"ActiveGear Clothing Item 282",Clothing,27,103016.84,9192.93,8.92,81.89
+PROD0450,"NovaTech Sports Item 450","Sports & Outdoors",7,81585.49,7360.29,9.02,81.89
+PROD0455,"StyleCo Sports Item 455","Sports & Outdoors",12,102236.78,9216.41,9.01,81.86
+PROD0479,"NexGen Home Item 479","Home & Kitchen",3,32242.19,2928.14,9.08,81.81
+PROD0198,"PrimeLine Electronics Item 198",Electronics,3,121208,11030.8,9.1,81.77
+PROD0493,"PureForm Sports Item 493","Sports & Outdoors",22,101297.42,9139.62,9.02,81.74
+PROD0454,"ZenLife Books Item 454",Books,32,28254.88,2549.24,9.02,81.64
+PROD0408,"ZenLife Home Item 408","Home & Kitchen",17,19688.09,1792.01,9.1,81.63
+PROD0092,"FunZone Clothing Item 92",Clothing,10,38804.18,3551.71,9.15,81.6
+PROD0269,"StyleCo Beauty Item 269","Beauty & Health",33,41072.01,3720.5,9.06,81.55
+PROD0167,"BoldEdge Toys Item 167","Toys & Games",14,13648.17,1254.49,9.19,81.48
+PROD0027,"PureForm Clothing Item 27",Clothing,13,48831.71,4491.71,9.2,81.47
+PROD0160,"StyleCo Sports Item 160","Sports & Outdoors",24,201131.68,18408.58,9.15,81.46
+PROD0094,"NexGen Books Item 94",Books,16,3900.23,358.34,9.19,81.46
+PROD0308,"NexGen Sports Item 308","Sports & Outdoors",4,149923.99,13867.45,9.25,81.46
+PROD0436,"ZenLife Beauty Item 436","Beauty & Health",4,16873.94,1562.4,9.26,81.44
+PROD0406,"GlowUp Clothing Item 406",Clothing,69,20253,1822.72,9,81.31
+PROD0460,"ActiveGear Toys Item 460","Toys & Games",54,67245.37,6122.89,9.11,81.24
+PROD0359,"PrimeLine Sports Item 359","Sports & Outdoors",32,42324.05,3909.79,9.24,81.2
+PROD0422,"ReadMore Electronics Item 422",Electronics,8,266454.7,25048.08,9.4,81.12
+PROD0071,"NovaTech Electronics Item 71",Electronics,11,47239.82,4438.98,9.4,81.09
+PROD0101,"ZenLife Electronics Item 101",Electronics,25,193797.38,18102.91,9.34,81.07
+PROD0298,"PureForm Home Item 298","Home & Kitchen",5,53496.12,5057.39,9.45,81.05
+PROD0389,"NexGen Beauty Item 389","Beauty & Health",14,16481.53,1551.46,9.41,81.04
+PROD0097,"HomePro Clothing Item 97",Clothing,3,67244.42,6380.94,9.49,80.99
+PROD0203,"ActiveGear Books Item 203",Books,47,13178.54,1224.71,9.29,80.95
+PROD0072,"ClearView Sports Item 72","Sports & Outdoors",7,71210.55,6755.07,9.49,80.95
+PROD0289,"ZenLife Home Item 289","Home & Kitchen",13,64789.62,6137.12,9.47,80.93
+PROD0307,"GlowUp Electronics Item 307",Electronics,13,405825.28,38453.93,9.48,80.91
+PROD0141,"GlowUp Sports Item 141","Sports & Outdoors",14,121742.46,11574.21,9.51,80.84
+PROD0055,"ZenLife Clothing Item 55",Clothing,468,1230499.7,89184.3,7.25,80.82
+PROD0399,"GlowUp Beauty Item 399","Beauty & Health",18,53045.78,5046.1,9.51,80.8
+PROD0216,"CoreBrand Electronics Item 216",Electronics,7,942666.6,90739.56,9.63,80.67
+PROD0438,"ActiveGear Toys Item 438","Toys & Games",13,30445.02,2922.84,9.6,80.67
+PROD0209,"ReadMore Electronics Item 209",Electronics,23,260900.29,24971.17,9.57,80.63
+PROD0483,"ZenLife Toys Item 483","Toys & Games",34,64154.65,6106.66,9.52,80.62
+PROD0473,"ClearView Electronics Item 473",Electronics,7,140680.99,13632.46,9.69,80.55
+PROD0314,"GlowUp Clothing Item 314",Clothing,37,138088.93,13180.81,9.55,80.53
+PROD0053,"CoreBrand Home Item 53","Home & Kitchen",17,86578.92,8353.64,9.65,80.53
+PROD0214,"BoldEdge Toys Item 214","Toys & Games",31,24904.63,2404.81,9.66,80.37
+PROD0108,"CoreBrand Home Item 108","Home & Kitchen",13,44035.17,4296.11,9.76,80.35
+PROD0085,"GlowUp Sports Item 85","Sports & Outdoors",37,305315.05,29500.41,9.66,80.31
+PROD0358,"ZenLife Home Item 358","Home & Kitchen",5,63009.34,6187.54,9.82,80.31
+PROD0362,"StyleCo Books Item 362",Books,15,7341.24,719.67,9.8,80.25
+PROD0416,"NovaTech Clothing Item 416",Clothing,11,74953.48,7396.96,9.87,80.15
+PROD0149,"FunZone Sports Item 149","Sports & Outdoors",45,171003.3,16624.2,9.72,80.11
+PROD0366,"PureForm Books Item 366",Books,8,6944.09,694.32,10,79.92
+PROD0363,"ClearView Toys Item 363","Toys & Games",8,38284.2,3841.46,10.03,79.86
+PROD0356,"NexGen Electronics Item 356",Electronics,38,301870.41,30187.05,10,79.62
+PROD0050,"ReadMore Books Item 50",Books,15,16477.37,1671.42,10.14,79.57
+PROD0321,"StyleCo Toys Item 321","Toys & Games",15,35620.92,3616.51,10.15,79.55
+PROD0341,"FunZone Books Item 341",Books,10,1868.7,192.23,10.29,79.32
+PROD0165,"GlowUp Beauty Item 165","Beauty & Health",15,26964.82,2802.56,10.39,79.07
+PROD0006,"ReadMore Beauty Item 6","Beauty & Health",5,32550.18,3400.54,10.45,79.05
+PROD0070,"ZenLife Electronics Item 70",Electronics,8,162697.36,17118.08,10.52,78.88
+PROD0133,"FunZone Home Item 133","Home & Kitchen",12,37175.94,3908.06,10.51,78.86
+PROD0464,"FunZone Home Item 464","Home & Kitchen",17,91501.54,9606.55,10.5,78.83
+PROD0337,"StyleCo Clothing Item 337",Clothing,16,55498.71,5852.3,10.54,78.76
+PROD0459,"ReadMore Beauty Item 459","Beauty & Health",19,57185.7,6031.74,10.55,78.71
+PROD0458,"GlowUp Clothing Item 458",Clothing,15,31704.51,3372.02,10.64,78.57
+PROD0021,"NexGen Sports Item 21","Sports & Outdoors",14,90154.61,9603.72,10.65,78.56
+PROD0495,"NexGen Clothing Item 495",Clothing,14,54002.05,5780.74,10.7,78.46
+PROD0420,"ReadMore Electronics Item 420",Electronics,14,416032.63,44972.56,10.81,78.24
+PROD0453,"ZenLife Clothing Item 453",Clothing,17,99368.43,10781.4,10.85,78.13
+PROD0008,"PrimeLine Beauty Item 8","Beauty & Health",3,2627.19,287.96,10.96,78.05
+PROD0201,"ActiveGear Electronics Item 201",Electronics,2,32107.6,3534.71,11.01,77.96
+PROD0076,"BoldEdge Sports Item 76","Sports & Outdoors",27,190174.52,20739.99,10.91,77.91
+PROD0032,"ReadMore Beauty Item 32","Beauty & Health",12,38113.94,4191.17,11,77.88
+PROD0413,"ActiveGear Home Item 413","Home & Kitchen",17,4620.81,511.41,11.07,77.69
+PROD0091,"StyleCo Toys Item 91","Toys & Games",9,32840.44,3650.24,11.12,77.67
+PROD0391,"HomePro Home Item 391","Home & Kitchen",17,94316.53,10608.1,11.25,77.33
+PROD0110,"PureForm Beauty Item 110","Beauty & Health",11,51735.3,5877.26,11.36,77.17
+PROD0256,"GlowUp Clothing Item 256",Clothing,16,35491.9,4047.11,11.4,77.04
+PROD0238,"PureForm Clothing Item 238",Clothing,16,44508.6,5097.87,11.45,76.94
+PROD0441,"PrimeLine Electronics Item 441",Electronics,14,181431.6,20822.19,11.48,76.9
+PROD0476,"HomePro Sports Item 476","Sports & Outdoors",9,22477.02,2587.83,11.51,76.89
+PROD0372,"ActiveGear Clothing Item 372",Clothing,9,23097.84,2705.81,11.71,76.49
+PROD0288,"CoreBrand Toys Item 288","Toys & Games",15,30466.18,3571.06,11.72,76.41
+PROD0342,"ActiveGear Clothing Item 342",Clothing,5,63106.97,7460.85,11.82,76.31
+PROD0425,"ZenLife Home Item 425","Home & Kitchen",6,24492.14,2910.31,11.88,76.18
+PROD0471,"ZenLife Sports Item 471","Sports & Outdoors",18,42407.85,5057.89,11.93,75.96
+PROD0448,"CoreBrand Home Item 448","Home & Kitchen",4,4246.73,512.26,12.06,75.84
+PROD0380,"CoreBrand Sports Item 380","Sports & Outdoors",1,19908.17,2427.18,12.19,75.61
+PROD0168,"StyleCo Clothing Item 168",Clothing,14,99365.1,12210.06,12.29,75.28
+PROD0487,"NovaTech Clothing Item 487",Clothing,9,45996.62,5665.06,12.32,75.27
+PROD0286,"GlowUp Home Item 286","Home & Kitchen",48,145554.86,17723.43,12.18,75.16
+PROD0231,"StyleCo Electronics Item 231",Electronics,25,58566.75,7244.7,12.37,75.01
+PROD0183,"ZenLife Clothing Item 183",Clothing,14,13559.84,1685.65,12.43,75
+PROD0041,"NexGen Books Item 41",Books,17,16243.43,2018.18,12.42,74.99
+PROD0369,"ClearView Beauty Item 369","Beauty & Health",14,17109.97,2138.26,12.5,74.86
+PROD0271,"PureForm Clothing Item 271",Clothing,13,16024.61,2044.02,12.76,74.35
+PROD0118,"PrimeLine Beauty Item 118","Beauty & Health",9,54247.1,6950.54,12.81,74.29
+PROD0279,"ZenLife Clothing Item 279",Clothing,2,50907.42,6662.73,13.09,73.8
+PROD0124,"FunZone Electronics Item 124",Electronics,7,352335.27,47475.74,13.47,72.99
+PROD0208,"ReadMore Electronics Item 208",Electronics,7,192714.77,26024.18,13.5,72.93
+PROD0197,"StyleCo Electronics Item 197",Electronics,22,284833.49,39162.7,13.75,72.28
+PROD0098,"BoldEdge Home Item 98","Home & Kitchen",13,31564.29,4398.04,13.93,72.01
+PROD0046,"PureForm Toys Item 46","Toys & Games",21,47476.42,6602.22,13.91,71.97
+PROD0234,"GlowUp Clothing Item 234",Clothing,13,31035.08,4358.99,14.05,71.77
+PROD0411,"StyleCo Clothing Item 411",Clothing,13,41446.88,6005.39,14.49,70.89
+PROD0304,"FunZone Electronics Item 304",Electronics,7,125066.27,18324.81,14.65,70.63
+PROD0176,"PrimeLine Clothing Item 176",Clothing,10,44427.83,6545.62,14.73,70.44
+PROD0212,"HomePro Home Item 212","Home & Kitchen",15,15498.81,2281.03,14.72,70.41
+PROD0090,"NexGen Sports Item 90","Sports & Outdoors",23,46225.73,7340.58,15.88,68.01
