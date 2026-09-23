@@ -46,7 +46,30 @@ To translate these analytical findings into measurable business value, leadershi
 * **Scale High Efficiency Winners:** Prioritize inventory stocking and homepage placement for top-OEI products like PROD0400, which demonstrates strong cashflow generation without creating warehouse congestion or customer support overhead.
 * **Reallocate Marketing Capital:** Reallocate paid acquisition budgets away from low-performing paid search, social media, and referral channels ($6.27 to $11.48 ROAS) and reinvest into retention campaigns, email, and organic search infrastructure ($62.25 to $130.28 ROAS).
 
+## Interactive Power BI Dashboard
+To complement the deep-dive SQL analysis, an interactive 2-page executive dashboard was built in Power BI to give stakeholders direct, visual access to both high-level KPIs and granular operational metrics.
+
+### Key Capabilities and Architecture:
+* **Executive Overview (Page 1):** Tracks primary business vitals ($52.87M Total Revenue, $14.19M Net Profit, 26.83% Margin, 7.13% Return Rate) alongside interactive timeline trends and dynamic Operational Efficiency Index (OEI) gauge tracking.
+* **Financial Operations (Page 2):** Deep-dives into Profit Margin by Category, Regional Delivery Rate, Order Density Scatter Analysis, and detailed tabular Financial summaries.
+* **Dynamic Interaction Logic:** Custom DAX measures to evaluate OEI status dynamically, while optimized cross-filtering controls to preserve category and regional benchmarks during slicing.
+* **Executive Canvas Navigation:** Embedded a top-header page navigation bar for seamless single-click switching between overview and operational layers.
+
+> You may locate the dashboard preview in the Appendix.
+
 ## Appendix
+
+**Image 1: Executive Overview**
+![Executive Overview](https://github.com/joelleal-analytics/Supply_Chain_and_E-Commerce_Intelligence_Engine/blob/main/Power%20BI%20images/Executive%20Overview.png)
+
+**Image 2: Financial & Operations**
+![Financial & Operations](https://github.com/joelleal-analytics/Supply_Chain_and_E-Commerce_Intelligence_Engine/blob/main/Power%20BI%20images/Financial%20%26%20Operations.png)
+
+**Image 3: Executive Overview - Filtered**
+![Executive Overview - Filtered](https://github.com/joelleal-analytics/Supply_Chain_and_E-Commerce_Intelligence_Engine/blob/main/Power%20BI%20images/Executive%20Overview%20-%20Filtered.png)
+
+**Image 4: Financial & Operations - Filtered**
+![Financial & Operations - Filtered](https://github.com/joelleal-analytics/Supply_Chain_and_E-Commerce_Intelligence_Engine/blob/main/Power%20BI%20images/Financial%20%26%20Operations%20-%20Filtered.png)
 
 **Table 1. Top 5 SKUs by Operational Efficiency Index (OEI) Score**
 ![Table 1](https://github.com/joelleal-analytics/Supply_Chain_and_E-Commerce_Intelligence_Engine/blob/main/appendix_images/Top%205%20SKUs%20by%20Operational%20Efficiency%20Index%20(OEI)%20Score.png)
@@ -61,8 +84,8 @@ To translate these analytical findings into measurable business value, leadershi
 ---
 
 ## Tools and Concepts Used:
-* **Tool:** `SQL (MySQL)`
-* **Concepts:** `Advanced CTE Architecture` `Data Modeling` `Relational Aggregations` `Defensive SQL (COALESCE, NULLIF)`
+* **Tool:** `SQL (MySQL)` `Power BI`
+* **Concepts:** `Advanced CTE Architecture` `Data Modeling` `Relational Aggregations` `Defensive SQL (COALESCE, NULLIF)` `DAX measures` `Executive KPI Tracking` `Interactive Gauge Charts` `Cross-Filtering Logic` `Page Navigation UI`
 
 > **Exploratory Data Analysis:**
 > 
